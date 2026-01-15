@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class SimpleCacheManager {
-
+ 
   //What is HashMap in Java?
   //HashMap is a part of Java's collection framework and is used to store data in key-value pairs.
   //It allows for fast retrieval, insertion, and deletion of elements based on their keys.

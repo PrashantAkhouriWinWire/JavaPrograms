@@ -1,6 +1,6 @@
 public class SingletonExample {
     private static SingletonExample instance;
-    private static Object lock = new Obbject();
+    private static Object lock = new Object();
 
     private SingletonExample() {
         // Private constructor to prevent instantiation
